@@ -10,7 +10,7 @@
         .properties {
             background-color:rgb(109, 191, 232);
         }
-        .contents {
+        #contents {
             color:rgb(93, 232, 123);
         }
         #Blueberry-Pancakes {
@@ -32,7 +32,7 @@
        
         <h1>David's Recipe Book</h1>
         
-        <h2 class="contents">Contents:</h2>
+        <h2 id="contents">Contents:</h2>
         
         <ol>
             <li><a href="#Blueberry-Pancakes">Blueberry Pancakes</a></li>
@@ -103,7 +103,7 @@
 <li><strong>Step 5:</strong>Carefully Put 5-6 Blueberries In The Pancake, Once It's On The Frying Pan.</li>
 <li><strong>Step 6:</strong>Give Pancakes 2-3 Minutes On Each Side.</li>
 </ul>
-<p><a href=".contents"> Back to Contents</a></p>
+<p><a href="#contents"> Back to Contents</a></p>
 
 <h2 id="Walnut-Brownie">Walnut Brownie</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolatebrownie.JPG/250px-Chocolatebrownie.JPG" alt="Walnut brownie">
@@ -198,7 +198,7 @@
 <li><strong>Step 9:</strong>Check For Doneness With Toothpick.</li>
 <li><strong>Step 10:</strong>If Done Take Out From Oven. Cool., Cut And Enjoy.</li>
 </ul>
-<p><a href=".contents"> Back to Contents</a></p>
+<p><a href="#contents"> Back to Contents</a></p>
 
 <h2 id="chocolate-shake">Chocolate Chip Thick Shake</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Strawberry_milkshake.jpg/220px-Strawberry_milkshake.jpgG" alt="Chocolate Chip Thick Shake">
@@ -239,7 +239,7 @@
             </tbody>
         </table>
     <p><strong>Step 1:</strong>Put The Serving Glass Into A Refrigerator Until Shake If Made. Now, Add 700ml Of Ice -Cream, 1 Cup Chocolate Chip, 2tbsp Choco. Syrup, 1tbsp Choco. Powder And 3/4 Cup Milk In A Grinder. Now, Grinde The Ingredients And Put The Shake In The Refrigerated Glass. Marinate It With Chocolate (Dairy Milk)</p>
-<p><a href=".contents"> Back to Contents</a></p>    
+<p><a href="#contents"> Back to Contents</a></p>    
         
         
     <p><em>Source: <a href="https://recipebook.io/home/recipedetails/rbk_586c022f5d45f/blueberry-pancakes">Check for more content</a></em></p>
